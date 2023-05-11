@@ -10,4 +10,4 @@ Before using `react-native-version` action, you need to run the following action
 
 - `actions/checkout@v3` - To checkout latest code from your repository.
 - `actions/setup-node@v3` - To setup node version (whatever you are using).
-- `npm install -g yarn` - Install yarn using npm (skip this step, if you are using npm)
+- `npm install -g yarn` - Install yarn using npm (skip this step, if you are using npm).
