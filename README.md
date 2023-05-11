@@ -2,6 +2,6 @@
 
 This repo is for testing `react-native-version` GitHub action
 
-# Workflow
+## Workflow
 
 Checkout the workflow in `.github/workflows/versioning.yml`
