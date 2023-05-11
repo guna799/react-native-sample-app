@@ -7,7 +7,8 @@
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "ci": "yarn install --frozen-lockfile"
   },
   "dependencies": {
     "react": "18.0.0",
