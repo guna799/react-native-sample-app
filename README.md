@@ -12,3 +12,4 @@ Before using `react-native-version` action, you need to run the following action
 - `actions/setup-node@v3` - To setup node version (whatever you are using).
 - `npm install -g yarn` - Install yarn using npm (skip this step, if you are using npm).
 - `yarn ci` - Install node_modules
+- `nabeel-shakeel/react-native-version@main` - Using react-native-version for version bump and GitHub release
