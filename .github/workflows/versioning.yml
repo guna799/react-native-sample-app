@@ -30,4 +30,4 @@ jobs:
         uses: nabeel-shakeel/react-native-version@main
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          supported_parameters: '{"tag-prefix":"v", "tag-suffix":"-staged", "automatic_release_tag":"Latest Release"}'
+          supported_parameters: '{"tag-prefix":"v", "tag-suffix":"-staged", "automatic_release_tag":"latest_release"}'
